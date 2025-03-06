@@ -1,0 +1,9 @@
+main: de.ericzones.ttt.main.Main
+name: TTT
+version: 1.0
+author: EricZones
+commands:
+   setup:
+   start:
+   build:
+   forcemap:
