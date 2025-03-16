@@ -20,9 +20,6 @@ TTT is a Minecraft plugin as a minigame implementation of Trouble in Terrorist T
 1. Move 'TTT-1.0-SNAPSHOT.jar' inside your minecraft servers plugin folder
 2. Start your Minecraft server
 
-## Contributors
-- **EricZones** - Developer
-
 ## Purpose
 The plugin was created for a Minecraft minigames network.
 It was originally developed in 2020 without git.
